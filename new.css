@@ -44,3 +44,7 @@ ul li a:hover{
 	ul li.active a{
 		background-color: #52E44f;
 	color: #000;
+		
+div {
+  opacity: 0.5;
+}
